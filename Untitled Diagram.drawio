@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T14:59:13.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BxWPBQqmoOH-7wDk5TXq" version="20.4.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-24T16:33:40.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-TNouSTMb81tlSQdsWfO" version="20.4.1" type="github" pages="4">
   <diagram id="nv-JVFHmMQF-_WWP1jbG" name="Page-1">
     <mxGraphModel dx="2183" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,7 +278,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="vnet link - wrong" id="JQEL3TnuFSlusqTPZsEw">
-    <mxGraphModel dx="4076" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4076" dy="2113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BlTYo-ULUo2vpezzBqCQ-0" />
         <mxCell id="BlTYo-ULUo2vpezzBqCQ-1" parent="BlTYo-ULUo2vpezzBqCQ-0" />
@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="vnet link -  private link -wrong" id="JyWUm3N4cdNaZuNXaGfP">
-    <mxGraphModel dx="4076" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4418" dy="2315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VhyrX6NXnVq5VQSpkihw-0" />
         <mxCell id="VhyrX6NXnVq5VQSpkihw-1" parent="VhyrX6NXnVq5VQSpkihw-0" />
@@ -481,9 +481,9 @@
         <mxCell id="VhyrX6NXnVq5VQSpkihw-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#FF8000;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;targetPerimeterSpacing=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="VhyrX6NXnVq5VQSpkihw-1" source="VhyrX6NXnVq5VQSpkihw-26" target="VhyrX6NXnVq5VQSpkihw-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VhyrX6NXnVq5VQSpkihw-25" value="DNS request&lt;br&gt;eskernek-cognitiveservices.privatelink.cognitiveservices.azure.com" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#009900;" vertex="1" connectable="0" parent="VhyrX6NXnVq5VQSpkihw-24">
+        <mxCell id="VhyrX6NXnVq5VQSpkihw-25" value="DNS request&lt;br&gt;eskernek-cognitiveservices.privatelink.cognitiveservices.azure.com&lt;br&gt;OR&lt;br&gt;eskernek-cognitiveservices.cognitiveservices.azure.com" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#009900;" vertex="1" connectable="0" parent="VhyrX6NXnVq5VQSpkihw-24">
           <mxGeometry x="-0.2788" y="42" relative="1" as="geometry">
-            <mxPoint x="61" y="-17" as="offset" />
+            <mxPoint x="36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VhyrX6NXnVq5VQSpkihw-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="VhyrX6NXnVq5VQSpkihw-1">
